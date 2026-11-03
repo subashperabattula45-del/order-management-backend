@@ -1,0 +1,13 @@
+target/
+build/
+.idea/
+*.iml
+.vscode/
+*.log
+
+.env
+.env.*
+!.env.example
+
+application-local.properties
+application-local.yml
